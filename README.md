@@ -1,3 +1,3 @@
 # CricketT20Analytics
 
-![T20CricketDataAnalysisArch1](https://user-images.githubusercontent.com/87013945/212044143-89dad616-8f1f-4df4-9747-d68d4961a281.png)
+![T20CricketDataAnalysisArch](https://user-images.githubusercontent.com/87013945/212046444-af36e81a-4a89-4ce8-a232-92adbc2dce86.png)
